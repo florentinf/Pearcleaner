@@ -2,19 +2,33 @@
   "sourceLanguage" : "en",
   "strings" : {
     "(Build %@)" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Build %@)"
+          }
+        }
+      }
     },
     "/Full/Path/example-1.txt, /Full/Path/example-2.txt" : {
-
-    },
-    "%@ is already on the latest release available" : {
-      "extractionState" : "manual"
-    },
-    "%@ will check for updates" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/Full/Path/example-1.txt, /Full/Path/example-2.txt"
+          }
+        }
+      }
     },
     "•" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "•"
+          }
+        },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30,611 +44,1733 @@
       }
     },
     "About" : {
-
-    },
-    "Accessibility" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über"
+          }
+        }
+      }
     },
     "Add" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinzufügen"
+          }
+        }
+      }
     },
     "Add Direct Paths:" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Direktpfade hinzufügen:"
+          }
+        }
+      }
     },
     "Add file/folder" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datei/Ordner hinzufügen"
+          }
+        }
+      }
     },
     "Add files or folders that will be ignored when searching for orphaned files. Click a path to remove it from the list." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge Dateien oder Ordner hinzu, die bei der Suche nach verwaisten Dateien ignoriert werden sollen. Klicke auf einen Pfad, um ihn aus der Liste zu entfernen."
+          }
+        }
+      }
     },
     "Add folder" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ordner hinzufügen"
+          }
+        }
+      }
     },
     "Add/Save" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinzufügen/Speichern"
+          }
+        }
+      }
     },
     "All checkboxes" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Kontrollkästchen"
+          }
+        }
+      }
     },
     "Always confirm the files marked for removal. In rare cases, unrelated files may be found when app names are too similar.\n\nNOTE: Pearcleaner uses AppleScript to remove files. Currently macOS does not allow AppleScript to authenticate using the fingerprint sensor, only password authentication is supported." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bestätige immer die zur Entfernung markierten Dateien. In seltenen Fällen können auch nicht verwandte Dateien gefunden werden, wenn die Namen der Apps zu ähnlich sind.\n\nHINWEIS: Pearcleaner verwendet AppleScript, um Dateien zu entfernen. Aktuell erlaubt macOS AppleScript nicht, sich mit dem Fingerabdrucksensor zu authentifizieren; es wird nur die Passwortauthentifizierung unterstützt."
+          }
+        }
+      }
     },
     "Animations disabled" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Animationen deaktiviert"
+          }
+        }
+      }
     },
     "Animations enabled" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Animationen aktiviert"
+          }
+        }
+      }
     },
     "Announcement" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ankündigung"
+          }
+        }
+      }
     },
     "App Name" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App-Name"
+          }
+        }
+      }
     },
     "App Size" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App-Größe"
+          }
+        }
+      }
     },
     "Appearance" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erscheinungsbild"
+          }
+        }
+      }
     },
     "Application file is nested within subdirectories. To prevent deleting incorrect folders, Pearcleaner will leave these alone. You may manually delete the remaining folders if required." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Anwendungsdatei befindet sich in Unterverzeichnissen. Um zu verhindern, dass falsche Ordner gelöscht werden, lässt Pearcleaner diese unberührt. Du kannst die verbleibenden Ordner falls nötig manuell löschen."
+          }
+        }
+      }
     },
     "Application Script" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Application Script"
+          }
+        }
+      }
     },
     "Applications" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anwendungen"
+          }
+        }
+      }
     },
     "Are you sure you want to remove these files?" : {
-
-    },
-    "Automation" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bist du dir sicher, dass du diese Dateien entfernen möchtest?"
+          }
+        }
+      }
     },
     "calculating" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berechne…"
+          }
+        }
+      }
     },
     "Check for Updates" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach Updates suchen"
+          }
+        }
+      }
     },
     "Clear" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Löschen"
+          }
+        }
+      }
     },
     "Clear text" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text löschen"
+          }
+        }
+      }
     },
     "Click for apps list" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hier klicken für die App-Liste"
+          }
+        }
+      }
     },
     "Click header to change sorting order" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klicke auf die Überschrift, um die Sortierreihenfolge zu ändern."
+          }
+        }
+      }
     },
     "Click to search" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klicke, um zu suchen."
+          }
+        }
+      }
     },
     "Close" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schliessen"
+          }
+        }
+      }
     },
     "Close after uninstall" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach der Deinstallation schliessen"
+          }
+        }
+      }
     },
     "Command Line" : {
-
-    },
-    "Completed 🚀" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehlszeile"
+          }
+        }
+      }
     },
     "Condition Builder" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condition Builder"
+          }
+        }
+      }
     },
     "Container" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Container"
+          }
+        }
+      }
     },
     "Copy File Paths" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dateipfade kopieren"
+          }
+        }
+      }
     },
     "Copy Path" : {
-
-    },
-    "Daily" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pfad kopieren"
+          }
+        }
+      }
     },
     "Detect when apps are moved to Trash" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erkennen, wenn Apps in den Papierkorb verschoben werden"
+          }
+        }
+      }
     },
     "Disabled when menubar icon is enabled" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deaktiviert, wenn das Menüleisten-Symbol aktiviert ist"
+          }
+        }
+      }
     },
     "Dismiss" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schließen"
+          }
+        }
+      }
     },
     "Drop an app here" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziehe eine App hierher"
+          }
+        }
+      }
     },
     "Drop files or folders above or click to add" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dateien oder Ordner oben ablegen oder zum Hinzufügen anklicken"
+          }
+        }
+      }
     },
     "Drop folders above or click to add" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ordner oben ablegen oder zum Hinzufügen anklicken"
+          }
+        }
+      }
     },
     "Enable context menu extension for Finder" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontextmenü-Erweiterung für den Finder aktivieren"
+          }
+        }
+      }
     },
     "Enabling the CLI will allow you to execute Pearcleaner actions from the Terminal. This will add pearcleaner command into /usr/local/bin so it's available directly from your PATH environment variable. Try it after enabling:\n\n> pearcleaner --help" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn du das CLI aktivierst, kannst du die Pearcleaner-Aktionen vom\nTerminal aus ausführen. Dadurch wird der Befehl pearcleaner in /usr/\nlocal/bin hinzugefügt, sodass er direkt in deiner PATH-\nUmgebungsvariablen verfügbar ist. Probiere es nach der Aktivierung\naus:\n> pearcleaner --help"
+          }
+        }
+      }
     },
     "Enabling this extension will allow you to right click apps in Finder to quickly uninstall them with Pearcleaner" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn du diese Erweiterung aktivierst, kannst du Apps im Finder mit der rechten Maustaste anklicken und sie mit Pearcleaner schnell deinstallieren."
+          }
+        }
+      }
     },
     "Exclude" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausschliessen"
+          }
+        }
+      }
     },
     "Exclude Keywords:" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schlüsselwörter ausschließen:"
+          }
+        }
+      }
     },
     "Exclude these files and folders from orphaned file search" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese Dateien und Ordner von der Suche nach verwaisten Dateien ausschließen"
+          }
+        }
+      }
     },
     "Export File Paths" : {
-
-    },
-    "Failed to display release notes" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dateipfade exportieren"
+          }
+        }
+      }
     },
     "File size display options" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Optionen für die Anzeige der Dateigröße"
+          }
+        }
+      }
     },
     "Finder Extension" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finder Erweiterung"
+          }
+        }
+      }
     },
     "Finding orphaned files, please wait..." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suche nach verwaisten Dateien, bitte warten..."
+          }
+        }
+      }
     },
     "Folders" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ordner"
+          }
+        }
+      }
     },
     "Force Refresh" : {
-
-    },
-    "Full Disk Access" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisieren erzwingen"
+          }
+        }
+      }
     },
     "Functionality" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funktionalität"
+          }
+        }
+      }
     },
     "Gathering app details" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sammeln von Anwendungsdetails"
+          }
+        }
+      }
     },
     "General" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemein"
+          }
+        }
+      }
     },
     "GitHub" : {
       "comment" : "Github Repo",
       "shouldTranslate" : false
     },
     "GitHub Sponsors" : {
-
-    },
-    "GitHub: v%@" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub-Sponsoren"
+          }
+        }
+      }
     },
     "Hide Details" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Details ausblenden"
+          }
+        }
+      }
     },
     "Homebrew cleanup after uninstall" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homebrew-Bereinigung nach Deinstallation."
+          }
+        }
+      }
     },
     "Important" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wichtig"
+          }
+        }
+      }
     },
     "In mini window mode, if you pin the Files popover on top, clicking away from the window will not dismiss it. Otherwise, it will dismiss by clicking anywhere outside the app." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Mini-Fenstermodus bleibt das \"Dateien\"-Popup geöffnet, wenn du es anpinnst, auch wenn du außerhalb des Fensters klickst. Ansonsten verschwindet es, sobald du außerhalb der App klickst."
+          }
+        }
+      }
     },
     "In mini window mode, you can have Pearcleaner startup to the Apps List view or the Drop Target view." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Mini-Fenstermodus kannst du Pearcleaner entweder so einstellen, dass es mit der App-Liste oder mit der Zielbereich-Ansicht startet."
+          }
+        }
+      }
     },
     "Include Keywords:" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schlüsselwörter einbeziehen:"
+          }
+        }
+      }
     },
     "Install Date" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datum der Installation"
+          }
+        }
+      }
     },
     "Installed Date:" : {
-
-    },
-    "Installed: v%@" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installationsdatum:"
+          }
+        }
+      }
     },
     "Instructions" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anweisungen"
+          }
+        }
+      }
     },
     "Interface" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzeroberfläche"
+          }
+        }
+      }
     },
     "iOS" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS"
+          }
+        }
+      }
     },
     "iOS app" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS-App"
+          }
+        }
+      }
     },
     "item" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Element"
+          }
+        }
+      }
     },
     "items" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elemente"
+          }
+        }
+      }
     },
     "keyword-1, keyword-2" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schlüsselwort-1, Schlüsselwort-2"
+          }
+        }
+      }
     },
     "Last Used Date" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datum des letzten Gebrauchs"
+          }
+        }
+      }
     },
     "Last Used Date:" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuletzt verwendet am:"
+          }
+        }
+      }
     },
     "Launch Pearcleaner at login" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pearcleaner beim Start starten"
+          }
+        }
+      }
     },
     "Locations that will be searched for .app files. Click a non-default path to remove it. Default paths can't be removed." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zu durchsuchende Orte für .app-Dateien. Klicke auf einen benutzerdefinierten Pfad, um ihn zu entfernen. Standardpfade können nicht entfernt werden."
+          }
+        }
+      }
     },
     "Logical" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logical"
+          }
+        }
+      }
     },
     "Made with ❤️ by Alin Lupascu" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit ❤️ von Alin Lupascu entwickelt"
+          }
+        }
+      }
     },
     "Menubar" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menubar"
+          }
+        }
+      }
     },
     "Menubar icon mode" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menüleisten-Symbolmodus"
+          }
+        }
+      }
     },
     "Menubar icon preference" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menüleisten-Symbol Einstellungen"
+          }
+        }
+      }
     },
     "Mini Configuration" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mini-Konfiguration"
+          }
+        }
+      }
     },
     "Mini window mode" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mini-Fenstermodus"
+          }
+        }
+      }
     },
     "Minimalist app list rows disabled" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimalistische Zeilen in der App-Liste deaktiviert"
+          }
+        }
+      }
     },
     "Minimalist app list rows enabled" : {
-
-    },
-    "Missing Permissions" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimalistische Zeilen in der App-Liste aktiviert"
+          }
+        }
+      }
     },
     "Modified Date" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Änderungsdatum"
+          }
+        }
+      }
     },
     "Modified Date:" : {
-
-    },
-    "Monthly" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Änderungsdatum:"
+          }
+        }
+      }
     },
     "More" : {
-
-    },
-    "Name" : {
-
-    },
-    "Never" : {
-      "extractionState" : "manual"
-    },
-    "New Announcement" : {
-      "extractionState" : "manual"
-    },
-    "Next update check: %@" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr"
+          }
+        }
+      }
     },
     "No files or folders added" : {
-
-    },
-    "No New Announcement" : {
-      "extractionState" : "manual"
-    },
-    "No releases to display" : {
-      "extractionState" : "manual"
-    },
-    "No Update 😌" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Dateien oder Ordner hinzugefügt"
+          }
+        }
+      }
     },
     "Not available" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht verfügbar"
+          }
+        }
+      }
     },
     "of" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "von"
+          }
+        }
+      }
     },
     "Open %@" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open %@"
+          }
+        }
+      }
     },
     "Orphaned file search is not 100% accurate as it doesn't have any uninstalled app bundles to check against for file exclusion. This does a best guess search for files/folders and excludes the ones that have overlap with your currently installed applications. Please confirm files marked for deletion really do belong to uninstalled applications." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Suche nach verwaisten Dateien ist nicht zu 100 % genau, da es keine deinstallierten App-Bundles gibt, mit denen sie zum Ausschluss von Dateien abgeglichen werden kann. Diese Suche ist eine Schätzung für Dateien und Ordner und schließt die aus, die sich mit deinen aktuell installierten Anwendungen überschneiden. Bitte bestätige, dass die zum Löschen markierten Dateien tatsächlich zu deinstallierten Anwendungen gehören."
+          }
+        }
+      }
     },
     "Orphaned Files" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "verwaiste Dateien"
+          }
+        }
+      }
     },
     "Pearcleaner and all of its files will be cleanly removed, are you sure?" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pearcleaner und alle seine Dateien werden vollständig entfernt. Bist du dir sicher?"
+          }
+        }
+      }
     },
     "Pearcleaner CLI support" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pearcleaner CLI-Unterstützung"
+          }
+        }
+      }
     },
     "Pearcleaner Uninstall" : {
-      "comment" : "Right click context menu item when using the Finder extension to uninstall using Pearcleaner"
-    },
-    "Permission Status" : {
-      "extractionState" : "manual"
+      "comment" : "Right click context menu item when using the Finder extension to uninstall using Pearcleaner",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mit Pearcleaner deinstallieren"
+          }
+        }
+      }
     },
     "Permissions" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berechtigungen"
+          }
+        }
+      }
     },
     "Pin popover window on top" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popup-Fenster anheften"
+          }
+        }
+      }
     },
     "Plist File" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plist-Datei"
+          }
+        }
+      }
     },
     "Quit" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beenden"
+          }
+        }
+      }
     },
     "Quit Pearcleaner" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pearcleaner beenden"
+          }
+        }
+      }
     },
     "Real" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echt"
+          }
+        }
+      }
     },
     "Real size type will show how much actual allocated space the file has on disk.\n\nLogical type shows the binary size. The filesystem can compress and deduplicate sectors on disk, so real size is sometimes smaller(or bigger) than logical size.\n\nFinder size is similar to if you right click > Get Info on a file in Finder, which will show both the logical and real sizes together." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Typ “reale Größe” zeigt an, wie viel Platz die Datei tatsächlich auf der Festplatte hat.\n\nDer logische Typ zeigt die binäre Größe an. Das Dateisystem kann Sektoren auf der Festplatte komprimieren und deduplizieren, so dass die tatsächliche Größe manchmal kleiner (oder größer) als die logische Größe ist.\n\nDie Finder-Größe ist vergleichbar mit einem Rechtsklick auf eine Datei im Finder, der sowohl die logische als auch die reale Größe anzeigt."
+          }
+        }
+      }
     },
     "Refresh" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisieren"
+          }
+        }
+      }
     },
     "Refresh Apps" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apps aktualisieren"
+          }
+        }
+      }
     },
     "Refresh apps (⌘+R)" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apps aktualisieren (⌘+R)"
+          }
+        }
+      }
     },
     "Refresh updater" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisieren des Updaters"
+          }
+        }
+      }
     },
     "Release Notes" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versionshinweise"
+          }
+        }
+      }
     },
     "Releases" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versionen"
+          }
+        }
+      }
     },
     "Remaining files and folders from previous applications" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbleibende Dateien und Ordner aus früheren Anwendungen"
+          }
+        }
+      }
     },
     "Remove" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entfernen"
+          }
+        }
+      }
     },
     "Remove Direct Paths:" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Direkte Pfade entfernen:"
+          }
+        }
+      }
     },
     "Remove the condition from this application" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Bedingung aus dieser Anwendung entfernen"
+          }
+        }
+      }
     },
     "Rescan" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neu scannen"
+          }
+        }
+      }
     },
     "Reset all settings to default" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Einstellungen auf Standardwerte zurücksetzen"
+          }
+        }
+      }
     },
     "Reset Settings" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen zurücksetzen"
+          }
+        }
+      }
     },
     "Reset Size" : {
-
-    },
-    "Restart" : {
-      "extractionState" : "manual"
-    },
-    "Restart %@ for changes to take effect" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Größe zurücksetzen"
+          }
+        }
+      }
     },
     "Reverse search completed successfully" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rückwärtssuche erfolgreich abgeschlossen"
+          }
+        }
+      }
     },
     "Right click to reset size" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechtsklick zum Zurücksetzen der Größe"
+          }
+        }
+      }
     },
     "Save" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speichern"
+          }
+        }
+      }
     },
     "Save the condition for this application" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Bedingung für diese Anwendung speichern"
+          }
+        }
+      }
     },
     "Search these folders for applications" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In diesen Ordnern nach Anwendungen suchen"
+          }
+        }
+      }
     },
     "Searching the file system" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Dateisystem durchsuchen"
+          }
+        }
+      }
     },
     "Sentinel Monitor" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sentinel Monitor"
+          }
+        }
+      }
     },
     "Sentinel Monitor found no other files to remove" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sentinel Monitor hat keine anderen Dateien zum Entfernen gefunden"
+          }
+        }
+      }
     },
     "Settings" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        }
+      }
     },
     "Show announcements badge again" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ankündigungsplakette erneut anzeigen"
+          }
+        }
+      }
     },
     "Show apps list on startup" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liste der Anwendungen beim Start anzeigen"
+          }
+        }
+      }
     },
     "Show Details" : {
-
-    },
-    "Showing last 3 releases" : {
-      "extractionState" : "manual"
-    },
-    "Size" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Details anzeigen"
+          }
+        }
+      }
     },
     "Some files/folders are not similar to the app name or bundle id, causing Pearcleaner to either not find them or find unrelated files. \nTo combat this, you may create a custom condition for each application bundle using keywords or direct paths. \n\n- Can add file/folder keywords that you want to either include or exclude in fuzzy searches. \n\n- Can explicitly add or remove a full Finder path to search results if you want a direct search." : {
-
-    },
-    "Sorted by Name" : {
-
-    },
-    "Sorted by Size" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einige Dateien/Ordner haben keine Ähnlichkeit mit dem Anwendungsnamen oder der Bundle-ID, was dazu führt, dass Pearcleaner sie entweder nicht findet oder nicht zugehörige Dateien findet. \nUm dies zu bekämpfen, können Sie eine benutzerdefinierte Bedingung für jedes Anwendungsbündel mit Schlüsselwörtern oder direkten Pfaden erstellen. \n\n- Sie können Datei-/Ordner-Schlüsselwörter hinzufügen, die Sie bei der unscharfen Suche entweder einschließen oder ausschließen möchten. \n\n- Sie können explizit einen vollständigen Finder-Pfad zu den Suchergebnissen hinzufügen oder entfernen, wenn Sie eine direkte Suche wünschen."
+          }
+        }
+      }
     },
     "Sorting Options" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sortieroptionen"
+          }
+        }
+      }
     },
     "Sponsor" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sponsor"
+          }
+        }
+      }
     },
     "Submit a bug or feature request" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen Fehler oder eine Funktionsanfrage einreichen"
+          }
+        }
+      }
     },
     "Submit New Issue" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neues Problem einreichen"
+          }
+        }
+      }
     },
     "Support" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        }
+      }
     },
     "system" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "system"
+          }
+        }
+      }
     },
     "System" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System"
+          }
+        }
+      }
     },
     "Theme Mode" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theme-Modus"
+          }
+        }
+      }
     },
     "This adds the file/folder to the Exclusions list. Edit the exclusions list from Settings > Folders tab" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dadurch wird die Datei oder der Ordner zur Ausschlussliste hinzugefügt. Du kannst die Ausschlussliste unter Einstellungen > Registerkarte „Ordner“ bearbeiten."
+          }
+        }
+      }
     },
     "This app is located in %@" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese App befindet sich in %@"
+          }
+        }
+      }
     },
     "This is a web app" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dies ist eine Web-App."
+          }
+        }
+      }
     },
     "This is a wrapped iOS app" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dies ist eine umhüllte iOS-App."
+          }
+        }
+      }
     },
     "This setting will affect Pearcleaner whether you're running in menubar mode or regular mode. If you disable menubar icon, you might want to disable this as well so Pearcleaner doesn't start on login." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese Einstellung hat Auswirkungen auf Pearcleaner, unabhängig davon, ob du im Menüleistenmodus oder im regulären Modus arbeitest. Wenn du das Menüleistensymbol deaktivierst, möchtest du möglicherweise auch diese Einstellung deaktivieren, damit Pearcleaner beim Start nicht automatisch geöffnet wird."
+          }
+        }
+      }
     },
     "Toggling between modes will reset the window frames to their default size/position" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Umschalten zwischen den Modi setzt die Fensterrahmen auf ihre Standardgröße/-position zurück."
+          }
+        }
+      }
     },
     "Tools" : {
-      "comment" : "Tools Menu"
+      "comment" : "Tools Menu",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Werkzeuge"
+          }
+        }
+      }
     },
     "Total size of files:" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesamtgröße der Dateien:"
+          }
+        }
+      }
     },
     "Transparent material" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transparentes Material"
+          }
+        }
+      }
     },
     "Type to search" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tippen zum Suchen"
+          }
+        }
+      }
     },
     "Undo Removal" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Löschen rückgängig machen"
+          }
+        }
+      }
     },
     "Uninstall" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deinstallieren"
+          }
+        }
+      }
     },
     "Uninstall confirmation alerts" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bestätigungswarnungen für die Deinstallation"
+          }
+        }
+      }
     },
     "Uninstall Pearcleaner" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pearcleaner deinstallieren"
+          }
+        }
+      }
     },
     "Update" : {
-
-    },
-    "Update Available 🥳" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisieren"
+          }
+        }
+      }
     },
     "Update Frequency" : {
-
-    },
-    "Updater frequency is set to Never" : {
-      "extractionState" : "manual"
-    },
-    "Updates Disabled" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisierungshäufigkeit"
+          }
+        }
+      }
     },
     "user" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "benutzer"
+          }
+        }
+      }
     },
     "User" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzer"
+          }
+        }
+      }
     },
     "v%@" : {
       "shouldTranslate" : false
     },
     "Version %@" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %@"
+          }
+        }
+      }
     },
     "View" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anzeigen"
+          }
+        }
+      }
     },
     "View in Finder" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Finder anzegen"
+          }
+        }
+      }
     },
     "View Issues" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Probleme anzeigen"
+          }
+        }
+      }
     },
     "View project contributors" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projektmitarbeiter anzeigen"
+          }
+        }
+      }
     },
     "View Releases" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veröffentlichungen anzeigen"
+          }
+        }
+      }
     },
     "View releases on GitHub" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veröffentlichungen auf GitHub anzeigen"
+          }
+        }
+      }
     },
     "View Repository" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Repository anzeigen"
+          }
+        }
+      }
     },
     "Warning" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warnung"
+          }
+        }
+      }
     },
     "Warning!" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warnung!"
+          }
+        }
+      }
     },
     "web" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web"
+          }
+        }
+      }
     },
     "Web app" : {
-
-    },
-    "Weekly" : {
-      "extractionState" : "manual"
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web-App"
+          }
+        }
+      }
     },
     "When applications are moved to Trash, Pearcleaner will launch and find related files and folders for deletion." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn Anwendungen in den Papierkorb verschoben werden, startet Pearcleaner und sucht nach zugehörigen Dateien und Ordnern zur Löschung."
+          }
+        }
+      }
     },
     "When deleting files using the Trash button, you can prevent accidental deletions by showing an alert before proceeding with the action." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beim Löschen von Dateien mit der Schaltfläche „Papierkorb“ kannst du versehentliche Löschungen verhindern, indem du vor der Ausführung der Aktion eine Warnmeldung anzeigst."
+          }
+        }
+      }
     },
-    "When Homebrew cleanup is enabled, Pearcleaner will check if the app you are removing was installed via Homebrew and launch Terminal.app to execute a brew uninstall and cleanup command to let Homebrew know that the app is removed. This way your Homebrew list will be synced up correctly and caching will be removed. Terminal.app is required since some apps need sudo permissions to remove services and files placed in system folders. Since other terminal apps don't support AppleScript and/or the 'do script' command, I opted to use the default macOS Terminal app for this.\n\nNOTE: If you undo the file delete with CMD+Z, the files will be put back but Homebrew will not be aware of it. To get the Homebrew list back in sync you'd need to run:\n\n> brew install APPNAME --force" : {
-
+    "When homebrew cleanup is enabled, Pearcleaner will check if the app you are removing was installed via homebrew and launch Terminal.app to execute a brew uninstall and cleanup command to let homebrew know that the app is removed. This way your homebrew list will be synced up correctly and caching will be removed. Terminal.app is required since some apps need sudo permissions to remove services and files placed in system folders. Since other terminal apps don't support applescript and/or the 'do script' command, I opted to use the default macOS Terminal app for this.\n\nNOTE: If you undo the file delete with CMD+Z, the files will be put back but homebrew will not be aware of it. To get the homebrew list back in sync you'd need to run:\n\n> brew install APPNAME --force" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn die Homebrew-Bereinigung aktiviert ist, überprüft Pearcleaner, ob die zu entfernende App über Homebrew installiert wurde, und öffnet Terminal.app, um einen Befehl zum Deinstallieren und Bereinigen auszuführen, damit Homebrew über die Entfernung der App informiert wird. Auf diese Weise wird deine Homebrew-Liste korrekt synchronisiert und der Cache wird entfernt. Terminal.app ist erforderlich, da einige Apps sudo-Rechte benötigen, um Dienste und Dateien in Systemordnern zu entfernen. Da andere Terminal-Apps Applescript und/oder den „do script“-Befehl nicht unterstützen, habe ich mich entschieden, die standardmäßige macOS-Terminal-App dafür zu verwenden.\n\nHINWEIS: Wenn du das Löschen der Datei mit CMD+Z rückgängig machst, werden die Dateien wiederhergestellt, aber Homebrew wird darüber nicht informiert. Um die Homebrew-Liste wieder zu synchronisieren, musst du Folgendes ausführen:\n\n> brew install APPNAME --force"
+          }
+        }
+      }
     },
     "When menubar icon is enabled, the main app window and dock icon will be disabled since the app will be put in accessory mode." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn das Menüleistensymbol aktiviert ist, werden das Hauptanwendungsfenster und das Dock-Symbol deaktiviert, da die App in den Zubehörmodus versetzt wird."
+          }
+        }
+      }
     },
     "When this mode is enabled, clicking the Uninstall button to remove an app will also close Pearcleaner right after.\nThis only affects Pearcleaner when it is opened via external means, like Sentinel Trash Monitor, Finder extension or a Deep Link.\nThis allows for single use of the app for a quick uninstall. When Pearcleaner is opened normally, this setting is ignored and will work as usual." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn dieser Modus aktiviert ist, wird Pearcleaner nach der Deinstallation automatisch geschlossen.  Dies betrifft Pearcleaner nur, wenn es auf externe Weise geöffnet wird, z. B. über Sentinel Trash Monitor, Finder-Erweiterung oder einen Deep Link. Dies ermöglicht die einmalige Verwendung der App für eine schnelle Deinstallation. Wenn Pearcleaner normal geöffnet wird, wird diese Einstellung ignoriert und funktioniert wie gewohnt."
+          }
+        }
+      }
     }
   },
   "version" : "1.0"
